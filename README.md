@@ -421,6 +421,7 @@
 
 <table>
 
+<th>توضیحات<ht/>
 <th>درصد<ht/>
 <th>جواب<ht/>
 <th>سوال<ht/>
@@ -428,6 +429,7 @@
 <th>ردیف<ht/>
 
 <tr>
+<td>WRONG ANSWER : 6</td>
 <td>60</td>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java">جواب</td>
 <td><a href="https://quera.org/problemset/52546/">سوال</td>
@@ -436,6 +438,7 @@
 </tr>
 
 <tr>
+<td>WRONG ANSWER : 6</td>
 <td>81</td>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/bazeh_azmoni.java">جواب</td>
 <td><a href="https://quera.org/problemset/145639/">سوال</td>
@@ -444,6 +447,7 @@
 </tr>
 
 <tr>
+<td>WRONG ANSWER : 3</td>
 <td>84</td>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java">جواب</td>
 <td><a href="https://quera.org/problemset/7609/">سوال</td>
@@ -452,6 +456,7 @@
 </tr>
 
 <tr>
+<td>WRONG ANSWER : 1</td>
 <td>90</td>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/sadgan_khaste.java">جواب</td>
 <td><a href="https://quera.org/problemset/3406/">سوال</td>
@@ -460,6 +465,7 @@
 </tr>
 
 <tr>
+<td>Runtime Error : 5</td>
 <td>50</td>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java">جواب</td>
 <td><a href="https://quera.org/problemset/2551/">سوال</td>
