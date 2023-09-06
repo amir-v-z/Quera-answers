@@ -220,140 +220,140 @@
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sope_sabzijat.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/72881">سوال</td>
 <td>سوپ سبزیجات</td>
 <td>31</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/to_cheghdar_ezafeh_vazn_dari.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3404">سوال</td>
 <td>تو چقدر اضافه وزن داری؟</td>
 <td>32</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/soal_barname_nevisi_barname_nevisi_soal.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3408">سوال</td>
 <td>سوال برنامه نویسی برنامه نویسی سوال</td>
 <td>33</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/modaresan_sharif.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/140039">سوال</td>
 <td>مدرسان شریف</td>
 <td>34</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chapgar.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/64434">سوال</td>
 <td>چاپگر</td>
 <td>35</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sorakh_mosh.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/91712">سوال</td>
 <td>سوراخ موش</td>
 <td>36</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kaktos_hay_por_dardsar.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/52542">سوال</td>
 <td>کاکتوس های پردردسر</td>
 <td>37</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/golbano_va_dogholo_hayash.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/72876">سوال</td>
 <td>غُل بانو و دوقلوهایش</td>
 <td>38</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/akh_jon_taraf_nist.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3538">سوال</td>
 <td>آخ جون طرف نیست!</td>
 <td>39</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/salam_salam_khodafez.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/31021">سوال</td>
 <td>سلام سلام خداحافظ</td>
 <td>40</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/tak_raghami.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3539">سوال</td>
 <td>تک رقمی</td>
 <td>41</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_do_ei.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/140028">سوال</td>
 <td>2 2 ای</td>
 <td>42</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/soal_zard.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3537">سوال</td>
 <td>سوال زرد</td>
 <td>43</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/yek_soal_sade.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/2885">سوال</td>
 <td>یک سوال ساده</td>
 <td>44</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/mabnay_aynei.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/651">سوال</td>
 <td>مبنای آینه ای</td>
 <td>45</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/factoriel.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/589">سوال</td>
 <td>فاکتوریل</td>
 <td>46</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chap_moraba.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/591">سوال</td>
 <td>چاپ مربع</td>
 <td>47</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/halazon_mokhtasati.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/597">سوال</td>
 <td>حلزون مختصاتی</td>
 <td>48</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ramz_hay_jan_sakht.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/9722">سوال</td>
 <td>رمزهای جان سخت</td>
 <td>49</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_khod_maghlob.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/617">سوال</td>
 <td>عدد خود مقلوب</td>
 <td>50</td>
