@@ -10,7 +10,7 @@
 <th>ردیف<ht/>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chap_bar_aks.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3405">سوال</td>
 <td>چاپ برعکس</td>
 <td>1</td>
