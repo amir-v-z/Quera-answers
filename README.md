@@ -150,70 +150,70 @@
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/rezhim_sakht.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/20256">سوال</td>
 <td>رژیم سخت</td>
 <td>21</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/farmandeh_bazneshasteh.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/72874">سوال</td>
 <td>فرمانده ی بازنشسته</td>
 <td>22</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/komak_be_kapy.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/8838">سوال</td>
 <td>کمک به کاپی</td>
 <td>23</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/roz_azadi_bayan_dar_barareh.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/10162">سوال</td>
 <td>روز آزادی در برره</td>
 <td>24</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/behdasht_va_salamat.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/51865">سوال</td>
 <td>بهداشت و سلامت</td>
 <td>25</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/mashgh_emshab_bagher.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/10230">سوال</td>
 <td>مشق امشب باقر</td>
 <td>26</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ramin_va_masaleh_riyazi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/102261">سوال</td>
 <td>رامین و مسئله ی ریاضی</td>
 <td>27</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/nobaraneh.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/104588">سوال</td>
 <td>نوبرانه</td>
 <td>28</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/navahi_service_dehi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/136483">سوال</td>
 <td>نواحی سرویس دهی</td>
 <td>29</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/morabaha_va_moshkelat_eghtesadi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/20249">سوال</td>
 <td>مرباها و مشکلات اقتصادی</td>
 <td>30</td>
