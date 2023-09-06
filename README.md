@@ -1,4 +1,4 @@
-# 💢 quera answers 📍 جواب های کوئرا 💢
+<h1 align="center">💢 quera answers 📍 جواب های کوئرا 💢</h1>
 
 ## ✔ همه جواب ها نمره 💯 گرفتند.
 
