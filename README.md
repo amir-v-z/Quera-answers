@@ -17,133 +17,133 @@
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ziny.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/33023">سوال</td>
 <td>زینی</td>
 <td>2</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kooler_ya_bokhari.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/147635">سوال</td>
 <td>کولر یا بخاری</td>
 <td>3</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/reshteh_cheker.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/106795">سوال</td>
 <td>رشته چکر</td>
 <td>4</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/online.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/140038">سوال</td>
 <td>آنلاین</td>
 <td>5</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/dorbin_madar_baste.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/2794">سوال</td>
 <td>دوربین مداربسته</td>
 <td>6</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/por_ghosht.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/72882">سوال</td>
 <td>پرگوشت</td>
 <td>7</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sade_tar.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3403">سوال</td>
 <td>ساده تر</td>
 <td>8</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kalameh_kalameh.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/108665">سوال</td>
 <td>کلمه کلمه</td>
 <td>9</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khosh_amad.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/123798">سوال</td>
 <td>خوش آمد</td>
 <td>10</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_shoghleh.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/111990">سوال</td>
 <td>دو شغله</td>
 <td>11</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khob_bagher_sarma_khordeh.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/10231">سوال</td>
 <td>خُب باقر سرما خورده</td>
 <td>12</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sharzh_mobile.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/17244">سوال</td>
 <td>شارژ موبایل</td>
 <td>13</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/reshteh_fibonachi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/17675">سوال</td>
 <td>رشته فیبوناچی</td>
 <td>14</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/namayeshgah_majazi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/110015">سوال</td>
 <td>نمایشگاه مجازی</td>
 <td>15</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_noghte_khat.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3414">سوال</td>
 <td>دو نقطه خط</td>
 <td>16</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sedadar.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/140033">سوال</td>
 <td>صدادار</td>
 <td>17</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/om_sin.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/28947">سوال</td>
 <td>ام سین</td>
 <td>18</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/pashmal_agha.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/72877">سوال</td>
 <td>پشمال آقا</td>
 <td>19</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/yakhdarchi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3429">سوال</td>
 <td>یخدارچی</td>
 <td>20</td>
