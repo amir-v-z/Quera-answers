@@ -360,56 +360,56 @@
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/maximum.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/588">سوال</td>
 <td>ماکزیمم</td>
 <td>51</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/nardeboni.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/640">سوال</td>
 <td>نردبونی</td>
 <td>52</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_chap_kon.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/9774">سوال</td>
 <td>عدد چاپ کن</td>
 <td>53</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/tarikh_tavalod.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/615">سوال</td>
 <td>تاریخ تولد</td>
 <td>54</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_fisaghoresi.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/280">سوال</td>
 <td>اعداد فیثاغورثی</td>
 <td>55</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_aval.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/293">سوال</td>
 <td>اعداد اول</td>
 <td>56</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/moadeleh_khat.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/147193">سوال</td>
 <td>معادله خط</td>
 <td>57</td>
 </tr>
 
 <tr>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/zojit.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/140035">سوال</td>
 <td>زوجیت</td>
 <td>58</td>
@@ -429,7 +429,7 @@
 
 <tr>
 <td>60</td>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java">جواب</td>
 <td><a href="https://quera.org/problemset/52546/">سوال</td>
 <td>رشته مورد علاقه</td>
 <td>1</td>
@@ -437,7 +437,7 @@
 
 <tr>
 <td>81</td>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/bazeh_azmoni.java">جواب</td>
 <td><a href="https://quera.org/problemset/145639/">سوال</td>
 <td>بازه آزمونی</td>
 <td>2</td>
@@ -445,7 +445,7 @@
 
 <tr>
 <td>84</td>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java">جواب</td>
 <td><a href="https://quera.org/problemset/7609/">سوال</td>
 <td>نامه بد</td>
 <td>3</td>
@@ -453,7 +453,7 @@
 
 <tr>
 <td>90</td>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/sadgan_khaste.java">جواب</td>
 <td><a href="https://quera.org/problemset/3406/">سوال</td>
 <td>صدگان خسته</td>
 <td>4</td>
@@ -461,7 +461,7 @@
 
 <tr>
 <td>50</td>
-<td>   <!--<a href="">/-->   جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java">جواب</td>
 <td><a href="https://quera.org/problemset/2551/">سوال</td>
 <td>جمع بزرگان</td>
 <td>5</td>
