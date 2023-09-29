@@ -429,6 +429,13 @@
 <td>60</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/daroy_corona.java">جواب</td>
+<td><a href="https://quera.org/problemset/178600/">سوال</td>
+<td>داروی کرونا</td>
+<td>61</td>
+</tr>
+
 </table>
 
 > *🌈 If you enjoyed...🔥*
