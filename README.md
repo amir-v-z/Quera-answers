@@ -422,6 +422,13 @@
 <td>59</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khana_baraye_ensan.java">جواب</td>
+<td><a href="https://quera.org/problemset/158165/">سوال</td>
+<td>خوانا برای انسان</td>
+<td>60</td>
+</tr>
+
 </table>
 
 > *🌈 If you enjoyed...🔥*
@@ -482,6 +489,15 @@
 <td><a href="https://quera.org/problemset/2551/">سوال</td>
 <td>جمع بزرگان</td>
 <td>5</td>
+</tr>
+
+<tr>
+<td>WRONG ANSWER : 1</td>
+<td>91</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/cake_dar_quera.java">جواب</td>
+<td><a href="https://quera.org/problemset/144082/">سوال</td>
+<td>کیک در کوئرا</td>
+<td>6</td>
 </tr>
 
 </table>
