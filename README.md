@@ -415,6 +415,13 @@
 <td>58</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/petrol.java">جواب</td>
+<td><a href="https://quera.org/problemset/82378/">سوال</td>
+<td>Petrol</td>
+<td>59</td>
+</tr>
+
 </table>
 
 > *🌈 If you enjoyed...🔥*
