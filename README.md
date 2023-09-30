@@ -436,6 +436,13 @@
 <td>61</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kamel_bodan_ya_nabodan.java">جواب</td>
+<td><a href="https://quera.org/problemset/282/">سوال</td>
+<td>کامل بودن یا نبودن</td>
+<td>62</td>
+</tr>
+
 </table>
 
 > *🌈 If you enjoyed...🔥*
