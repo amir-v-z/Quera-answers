@@ -443,6 +443,13 @@
 <td>62</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/the_departed_2006.java">جواب</td>
+<td><a href="https://quera.org/problemset/132251/">سوال</td>
+<td>The Departed (2006)</td>
+<td>63</td>
+</tr>
+
 </table>
 
 > *🌈 If you enjoyed...🔥*
