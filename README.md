@@ -458,67 +458,11 @@
 
 ## ❌ کامل نیست 🛠
 
-<table>
-
-<th>توضیحات<ht/>
-<th>نمره<ht/>
-<th>جواب<ht/>
-<th>سوال<ht/>
-<th>اسم سوال<ht/>
-<th>ردیف<ht/>
-
-<tr>
-<td>WRONG ANSWER : 6</td>
-<td>60</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java">جواب</td>
-<td><a href="https://quera.org/problemset/52546/">سوال</td>
-<td>رشته مورد علاقه</td>
-<td>1</td>
-</tr>
-
-<tr>
-<td>WRONG ANSWER : 6</td>
-<td>81</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/bazeh_azmoni.java">جواب</td>
-<td><a href="https://quera.org/problemset/145639/">سوال</td>
-<td>بازه آزمونی</td>
-<td>2</td>
-</tr>
-
-<tr>
-<td>WRONG ANSWER : 3</td>
-<td>84</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java">جواب</td>
-<td><a href="https://quera.org/problemset/7609/">سوال</td>
-<td>نامه بد</td>
-<td>3</td>
-</tr>
-
-<tr>
-<td>WRONG ANSWER : 1</td>
-<td>90</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/sadgan_khaste.java">جواب</td>
-<td><a href="https://quera.org/problemset/3406/">سوال</td>
-<td>صدگان خسته</td>
-<td>4</td>
-</tr>
-
-<tr>
-<td>Runtime Error : 5</td>
-<td>50</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java">جواب</td>
-<td><a href="https://quera.org/problemset/2551/">سوال</td>
-<td>جمع بزرگان</td>
-<td>5</td>
-</tr>
-
-<tr>
-<td>WRONG ANSWER : 1</td>
-<td>91</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/cake_dar_quera.java">جواب</td>
-<td><a href="https://quera.org/problemset/144082/">سوال</td>
-<td>کیک در کوئرا</td>
-<td>6</td>
-</tr>
-
-</table>
+|توضیحات|نمره|جواب|سوال|اسم سوال|ردیف|
+|-|-|-|-|-|-|
+|WRONG ANSWER : 6|60|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java)|[سوال](https://quera.org/problemset/52546/)|رشته مورد علاقه|1|
+|WRONG ANSWER : 6|81|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/bazeh_azmoni.java)|[سوال](https://quera.org/problemset/145639/)|بازه آزمونی|2|
+|WRONG ANSWER : 3|84|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java)|[سوال](https://quera.org/problemset/7609/)|نامه بد|3|
+|WRONG ANSWER : 1|90|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/sadgan_khaste.java)|[سوال](https://quera.org/problemset/3406/)|صدگان خسته|4|
+|Runtime Error : 5|50|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java)|[سوال](https://quera.org/problemset/2551/)|جمع بزرگان|5|
+|WRONG ANSWER : 1|91|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/cake_dar_quera.java)|[سوال](https://quera.org/problemset/144082/)|کیک در کوئرا|6|
