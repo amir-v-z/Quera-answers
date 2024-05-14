@@ -17,12 +17,12 @@ public class sadgan_khaste {
             int num1 = Integer.parseInt(z1);
             int num2 = Integer.parseInt(z2);
 
-            if (num1 > num2) {
-                System.out.println(y + " < " + x);
+            if (num1 < num2) {
+                System.out.println(x + " < " + y);
             }
 
-            else if (num2 > num1) {
-                System.out.println(x + " < " + y);
+            else {
+                System.out.println(y + " < " + x);
             }
         }
         
