@@ -543,7 +543,7 @@
 </table>
 
 <h1 align="right">
-<a href="#1"><img src="https://media.giphy.com/media/uIzLrAMuxl32vuB3ja/giphy.gif?cid=ecf05e477tns87e0pd48gyv421q2vkcqi7lo0vdey0kcxik3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=70></a>
+<a href="#1"><img src="https://media.giphy.com/media/ymCebclx2zffNOn6Io/giphy.gif?cid=ecf05e478065pis0nugeyo8eg2tpugm5rae9sy8bst4jjo9w&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=70></a>
 </h1>
 
 > *اگه لذت بردید...<img src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" width=25>*
