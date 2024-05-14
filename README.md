@@ -8,10 +8,10 @@
 
 <table>
 
-<th>جواب<ht/>
-<th>سوال<ht/>
-<th>اسم سوال<ht/>
-<th>ردیف<ht/>
+<th>جواب</th>
+<th>سوال</th>
+<th>اسم سوال</th>
+<th>ردیف</th>
 
 <tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chap_bar_aks.java">جواب</td>
@@ -468,18 +468,74 @@
 <td>65</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khaneh_ye_dost.java">جواب</td>
+<td><a href="https://quera.org/problemset/176782">سوال</td>
+<td>خانه ی دوست</td>
+<td>66</td>
+</tr>
+
 </table>
 
 <h2 align="right">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J5am0xODNrNnh4d2N2OTR0MWpudmtwaWJwdGV2cW4yM2gzdXhrcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7VjzaRCDyQBnr1UKuF/giphy.gif" width=30> کامل نیست <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">
 </h2>
 
-|توضیحات|نمره|جواب|سوال|اسم سوال|ردیف|
-|-|-|-|-|-|-|
-|WRONG ANSWER : 6|60|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java)|[سوال](https://quera.org/problemset/52546/)|رشته مورد علاقه|1|
-|WRONG ANSWER : 6|81|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/bazeh_azmoni.java)|[سوال](https://quera.org/problemset/145639/)|بازه آزمونی|2|
-|WRONG ANSWER : 3|84|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java)|[سوال](https://quera.org/problemset/7609/)|نامه بد|3|
-|Runtime Error : 5|50|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java)|[سوال](https://quera.org/problemset/2551/)|جمع بزرگان|4|
+<table>
+
+<th>توضیحات</th>
+<th>نمره</th>
+<th>جواب</th>
+<th>سوال</th>
+<th>اسم سوال</th>
+<th>ردیف</th>
+
+<tr>
+<td>WRONG ANSWER : 6</td>
+<td>60</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java">جواب</td>
+<td><a href="https://quera.org/problemset/52546/">سوال</td>
+<td>رشته مورد علاقه</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>WRONG ANSWER : 6</td>
+<td>81</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/bazeh_azmoni.java">جواب</td>
+<td><a href="https://quera.org/problemset/145639/">سوال</td>
+<td>بازه آزمونی</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>WRONG ANSWER : 3</td>
+<td>84</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java">جواب</td>
+<td><a href="https://quera.org/problemset/7609/">سوال</td>
+<td>نامه بد</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Runtime Error : 5</td>
+<td>50</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java">جواب</td>
+<td><a href="https://quera.org/problemset/2551/">سوال</td>
+<td>جمع بزرگان</td>
+<td>4</td>
+</tr>
+
+<tr>
+<td>Runtime Error : 7</td>
+<td>30</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_adad.java">جواب</td>
+<td><a href="https://quera.org/problemset/637/">سوال</td>
+<td>جمع اعداد</td>
+<td>5</td>
+</tr>
+
+</table>
 
 <h1 align="right">
 <a href="#1"><img src="https://media.giphy.com/media/uIzLrAMuxl32vuB3ja/giphy.gif?cid=ecf05e477tns87e0pd48gyv421q2vkcqi7lo0vdey0kcxik3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=70></a>
