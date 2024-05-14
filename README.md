@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="right">
-همه جواب ها نمره <img src="https://media.giphy.com/media/3o7aDfuOPVroMTRjig/giphy.gif" width=30> گرفتند<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRlbm8wNHd2a3ZndGdqdzJiemFseWY0Z2N1eXNyb2ppam9ua2JhdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif" width=60>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRlbm8wNHd2a3ZndGdqdzJiemFseWY0Z2N1eXNyb2ppam9ua2JhdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif" width=60> همه جواب ها نمره <img src="https://media.giphy.com/media/3o7aDfuOPVroMTRjig/giphy.gif" width=30> گرفتند
 </h2>
 
 <table>
@@ -464,7 +464,7 @@
 </table>
 
 <h2 align="right">
-<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50"> کامل نیست <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J5am0xODNrNnh4d2N2OTR0MWpudmtwaWJwdGV2cW4yM2gzdXhrcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7VjzaRCDyQBnr1UKuF/giphy.gif" width=30>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J5am0xODNrNnh4d2N2OTR0MWpudmtwaWJwdGV2cW4yM2gzdXhrcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7VjzaRCDyQBnr1UKuF/giphy.gif" width=30> کامل نیست <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">
 </h2>
 
 |توضیحات|نمره|جواب|سوال|اسم سوال|ردیف|
