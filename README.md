@@ -461,6 +461,13 @@
 <td>64</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sadgan_khaste.java">جواب</td>
+<td><a href="https://quera.org/problemset/3406/">سوال</td>
+<td>صدگان خسته</td>
+<td>65</td>
+</tr>
+
 </table>
 
 <h2 align="right">
@@ -472,8 +479,7 @@
 |WRONG ANSWER : 6|60|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java)|[سوال](https://quera.org/problemset/52546/)|رشته مورد علاقه|1|
 |WRONG ANSWER : 6|81|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/bazeh_azmoni.java)|[سوال](https://quera.org/problemset/145639/)|بازه آزمونی|2|
 |WRONG ANSWER : 3|84|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java)|[سوال](https://quera.org/problemset/7609/)|نامه بد|3|
-|WRONG ANSWER : 1|90|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/sadgan_khaste.java)|[سوال](https://quera.org/problemset/3406/)|صدگان خسته|4|
-|Runtime Error : 5|50|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java)|[سوال](https://quera.org/problemset/2551/)|جمع بزرگان|5|
+|Runtime Error : 5|50|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java)|[سوال](https://quera.org/problemset/2551/)|جمع بزرگان|4|
 
 <h1 align="right">
 <a href="#1"><img src="https://media.giphy.com/media/uIzLrAMuxl32vuB3ja/giphy.gif?cid=ecf05e477tns87e0pd48gyv421q2vkcqi7lo0vdey0kcxik3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=70></a>
