@@ -1,6 +1,10 @@
-<h1 align="center">💢 quera answers 📍 جواب های کوئرا 💢</h1>
+<h1 align="center" id=1>
+<img src="https://media.giphy.com/media/clOgAGJ5iR1RVx5GUl/giphy.gif?cid=ecf05e47wx5oexkqui58zx1ua13127dyhaft8rjcyezpbosd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40> quera answers <img src="https://media.giphy.com/media/StENQhZxBZkBqm8kcP/giphy.gif" width=25> جواب های کوئرا <img src="https://media.giphy.com/media/pzSPkg0mIdpSPO3sD5/giphy.gif?cid=ecf05e47aaxaq7f5naec8uwbq9af17lyr8e1qcwlfd7crref&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40>
+</h1>
 
-## ✔ همه جواب ها نمره 💯 گرفتند.
+<h2 align="right">
+همه جواب ها نمره <img src="https://media.giphy.com/media/3o7aDfuOPVroMTRjig/giphy.gif" width=30> گرفتند<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRlbm8wNHd2a3ZndGdqdzJiemFseWY0Z2N1eXNyb2ppam9ua2JhdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif" width=60>
+</h2>
 
 <table>
 
@@ -124,7 +128,7 @@
 <tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sedadar.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/140033">سوال</td>
-<td>صدادار</td>
+<td>صدا دار</td>
 <td>17</td>
 </tr>
 
@@ -299,7 +303,7 @@
 <tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_do_ei.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/140028">سوال</td>
-<td>2 2 ای</td>
+<td>ای 2 2</td>
 <td>42</td>
 </tr>
 
@@ -450,13 +454,18 @@
 <td>63</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/cake_dar_quera.java">جواب</td>
+<td><a href="https://quera.org/problemset/144082/">سوال</td>
+<td>کیک در کوئرا</td>
+<td>64</td>
+</tr>
+
 </table>
 
-> *🌈 If you enjoyed...🔥*
-
-> *Don't forget to give stars🌟please😉🙏🏻*
-
-## ❌ کامل نیست 🛠
+<h2 align="right">
+<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50"> کامل نیست <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J5am0xODNrNnh4d2N2OTR0MWpudmtwaWJwdGV2cW4yM2gzdXhrcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7VjzaRCDyQBnr1UKuF/giphy.gif" width=30>
+</h2>
 
 |توضیحات|نمره|جواب|سوال|اسم سوال|ردیف|
 |-|-|-|-|-|-|
@@ -465,4 +474,11 @@
 |WRONG ANSWER : 3|84|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java)|[سوال](https://quera.org/problemset/7609/)|نامه بد|3|
 |WRONG ANSWER : 1|90|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/sadgan_khaste.java)|[سوال](https://quera.org/problemset/3406/)|صدگان خسته|4|
 |Runtime Error : 5|50|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java)|[سوال](https://quera.org/problemset/2551/)|جمع بزرگان|5|
-|WRONG ANSWER : 1|91|[جواب](https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/cake_dar_quera.java)|[سوال](https://quera.org/problemset/144082/)|کیک در کوئرا|6|
+
+<h1 align="right">
+<a href="#1"><img src="https://media.giphy.com/media/uIzLrAMuxl32vuB3ja/giphy.gif?cid=ecf05e477tns87e0pd48gyv421q2vkcqi7lo0vdey0kcxik3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=70></a>
+</h1>
+
+> *اگه لذت بردید...<img src="https://media.giphy.com/media/ewh4ipgPw1bBVj4HI5/giphy.gif" width=25>*
+
+> *لطفا ستاره دادن <img src="https://media.giphy.com/media/bGuxrqcjKymVlfVaix/giphy.gif" width=20> را فراموش نکنید😉🙏🏻*
