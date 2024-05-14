@@ -475,6 +475,20 @@
 <td>66</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/name_bad.java">جواب</td>
+<td><a href="https://quera.org/problemset/7609/">سوال</td>
+<td>نامه بد</td>
+<td>67</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/aval_biny.java">جواب</td>
+<td><a href="https://quera.org/problemset/649/">سوال</td>
+<td>اول بینی</td>
+<td>68</td>
+</tr>
+
 </table>
 
 <h2 align="right">
@@ -509,21 +523,12 @@
 </tr>
 
 <tr>
-<td>WRONG ANSWER : 3</td>
-<td>84</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/name_bad.java">جواب</td>
-<td><a href="https://quera.org/problemset/7609/">سوال</td>
-<td>نامه بد</td>
-<td>3</td>
-</tr>
-
-<tr>
 <td>Runtime Error : 5</td>
 <td>50</td>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_bozorgan.java">جواب</td>
 <td><a href="https://quera.org/problemset/2551/">سوال</td>
 <td>جمع بزرگان</td>
-<td>4</td>
+<td>3</td>
 </tr>
 
 <tr>
@@ -532,7 +537,7 @@
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/jame_adad.java">جواب</td>
 <td><a href="https://quera.org/problemset/637/">سوال</td>
 <td>جمع اعداد</td>
-<td>5</td>
+<td>4</td>
 </tr>
 
 </table>
