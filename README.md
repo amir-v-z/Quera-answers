@@ -2,6 +2,134 @@
 <img src="https://media.giphy.com/media/clOgAGJ5iR1RVx5GUl/giphy.gif?cid=ecf05e47wx5oexkqui58zx1ua13127dyhaft8rjcyezpbosd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40> quera answers <img src="https://media.giphy.com/media/StENQhZxBZkBqm8kcP/giphy.gif" width=25> جواب های کوئرا <img src="https://media.giphy.com/media/pzSPkg0mIdpSPO3sD5/giphy.gif?cid=ecf05e47aaxaq7f5naec8uwbq9af17lyr8e1qcwlfd7crref&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=40>
 </h1>
 
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>GitHub amir-v-z</title>
+        <style>
+            .search-container {
+                display: flex;
+                align-items: center;
+            }
+            .search-input {
+                width: 300px;
+                padding: 8px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                font-size: 1.2rem;
+                border-radius: 0.4rem;
+                background-color: rgb(14, 14, 26);
+                color: white;
+                box-shadow: 0px 0px 60px #1f4c65;
+            }
+            .search-button {
+                background-color: greenyellow;
+                color: black;
+                border: none;
+                border-radius: 0.4rem;
+                padding: 8px 12px;
+                cursor: pointer;
+                margin-left: 3px;
+                font-size: 1.2rem;
+                box-shadow: 0px 0px 60px #1f4c65;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="search-container" style="margin-left: 100px">
+            <input type="text" id="searchInput" class="search-input" placeholder="نام سوال را مطابق کوئرا وارد کنید">
+            <button id="searchButton" class="search-button">Search</button>
+        </div>
+        <div id="searchResults">
+        </div>
+        <script>
+            const searchInput = document.getElementById('searchInput');
+            const searchButton = document.getElementById('searchButton');
+            const searchResults = document.getElementById('searchResults');
+            const contentData = [
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chap_bar_aks.java">چاپ بر عکس</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ziny.java">زینی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kooler_ya_bokhari.java">کولر یا بخاری</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/reshteh_cheker.java">رشته چکر</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/online.java">آنلاین</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/dorbin_madar_baste.java">دوربین مداربسته</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/por_ghosht.java">پرگوشت</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sade_tar.java">ساده تر</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kalameh_kalameh.java">کلمه کلمه</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khosh_amad.java">خوش آمد</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_shoghleh.java">دو شغله</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khob_bagher_sarma_khordeh.java">خب باقر سرما خورده</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sharzh_mobile.java">شارژ موبایل</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/reshteh_fibonachi.java">رشته فیبوناچی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/namayeshgah_majazi.java">نمایشگاه مجازی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_noghte_khat.java">دو نقطه خط</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sedadar.java">صدا دار</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/om_sin.java">ام سین</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/pashmal_agha.java">پشمال آقا</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/yakhdarchi.java">یخدارچی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/rezhim_sakht.java">رژیم سخت</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/farmandeh_bazneshasteh.java">فرمانده ی بازنشسته</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/komak_be_kapy.java">کمک به کاپی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/roz_azadi_bayan_dar_barareh.java">روز آزادی در برره</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/behdasht_va_salamat.java">بهداشت و سلامت</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/mashgh_emshab_bagher.java">مشق امشب باقر</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ramin_va_masaleh_riyazi.java">رامین و مسئله ریاضی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/nobaraneh.java">نوبرانه</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/navahi_service_dehi.java">نواحی سرویس دهی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/morabaha_va_moshkelat_eghtesadi.java">مربا و مشکلات اقتصادی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sope_sabzijat.java">سوپ سبزیجات</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/to_cheghdar_ezafeh_vazn_dari.java">تو چقدر اضافه وزن داری؟</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/soal_barname_nevisi_barname_nevisi_soal.java">سوال برنامه نویسی برنامه نویسی سوال</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/modaresan_sharif.java">مدرسان شریف</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chapgar.java">چاپگر</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sorakh_mosh.java">سوراخ موش</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kaktos_hay_por_dardsar.java">کاکتوس های پردردسر</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/golbano_va_dogholo_hayash.java">غل بانو و دوقلوهایش</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/akh_jon_taraf_nist.java">آخ جون طرف نیست!</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/salam_salam_khodafez.java">سلام سلام خداحافظ</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/tak_raghami.java">تک رقمی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_do_ei.java">2 2 ای</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/soal_zard.java">سوال زرد</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/yek_soal_sade.java">یک سوال ساده</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/mabnay_aynei.java">مبنای آینه ای</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/factoriel.java">فاکتوریل</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chap_moraba.java">چاپ مربع</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/halazon_mokhtasati.java">حلزون مختصاتی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ramz_hay_jan_sakht.java">رمز های جان سخت</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_khod_maghlob.java">عدد خود مقلوب</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/maximum.java">ماکزیمم</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/nardeboni.java">نردبونی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_chap_kon.java">عدد چاپ کن</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/tarikh_tavalod.java">تاریخ تولد</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_fisaghoresi.java">اعداد فیثاغورثی</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_aval.java">اعداد اول</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/moadeleh_khat.java">معادله خط</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/zojit.java">زوجیت</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/petrol.java">Petrol</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khana_baraye_ensan.java">خوانا برای انسان</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/daroy_corona.java">داروی کرونا</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kamel_bodan_ya_nabodan.java">کامل بودن یا نبودن</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/the_departed_2006.java">The Departed (2006)</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/cake_dar_quera.java">کیک در کوئرا</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sadgan_khaste.java">صدگان خسته</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/khaneh_ye_dost.java">خانه ی دوست</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/name_bad.java">نامه بد</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/aval_biny.java">اول بینی</a>',
+            ];
+            searchButton.addEventListener('click', () => {
+                const searchTerm = searchInput.value.toLowerCase();
+                const filteredResults = contentData.filter(item =>
+                    item.toLowerCase().includes(searchTerm)
+                );
+                searchResults.innerHTML = filteredResults.length > 0
+                    ? filteredResults.map(result => `<p>${result}</p>`).join('')
+                    : '<p>No results found.</p>';
+            });
+        </script>
+    </body>
+</html>
+
 <h2 align="right">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRlbm8wNHd2a3ZndGdqdzJiemFseWY0Z2N1eXNyb2ppam9ua2JhdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif" width=60> همه جواب ها نمره <img src="https://media.giphy.com/media/3o7aDfuOPVroMTRjig/giphy.gif" width=30> گرفتند
 </h2>
