@@ -159,6 +159,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/jadval_zarb_gondeh.java">جواب</td>
+<td><a href="https://quera.org/problemset/3409">سوال</td>
+<td>جدول ضرب گنده</td>
+<td>3409</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/do_noghte_khat.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/3414">سوال</td>
 <td>دو نقطه خط</td>
@@ -499,6 +506,13 @@
 <td><a href="https://quera.org/problemset/178600">سوال</td>
 <td>داروی کرونا</td>
 <td>178600</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/jame_do_adad.java">جواب</td>
+<td><a href="https://quera.org/problemset/221452">سوال</td>
+<td>جمع دو عدد</td>
+<td>221452</td>
 </tr>
 
 </table>
