@@ -4,7 +4,7 @@
 
 <h3 align="right">
 
-<img src="https://media.giphy.com/media/KIKHqTuPdlgSiKYWn1/giphy.gif" width=30> برای راحتر پیدا کردن برنامه مورد نظر، روی دکمه زیر کلیک کنید.
+<img src="https://media.giphy.com/media/KIKHqTuPdlgSiKYWn1/giphy.gif" width=30> برای جستجوی راحتر برنامه مورد نظر، روی دکمه زیر کلیک کنید.
 
 </h3>
 
