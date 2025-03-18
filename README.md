@@ -515,6 +515,13 @@
 <td>221452</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/bi_mim_abolfazl.java">جواب</td>
+<td><a href="https://quera.org/problemset/281772">سوال</td>
+<td>بی میم ابوالفضل</td>
+<td>281772</td>
+</tr>
+
 </table>
 
 <h2 align="right">
