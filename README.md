@@ -8,6 +8,12 @@
 
 </h3>
 
+<div align="center">
+
+[برای سرچ کلیک کنید](https://amir-v-z.github.io/Quera-answers)
+
+</div>
+
 <h3 align="center">
 <a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Search.html"><img src="https://media.giphy.com/media/JJvj6wwTtmQcce6Pdw/giphy.gif" width=120></a>
 </h3>
