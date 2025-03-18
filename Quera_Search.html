@@ -35,6 +35,11 @@
                 font-size: 1.2rem;
                 box-shadow: 0px 0px 60px #1f4c65;
             }
+            .txt{
+                width: 350px;
+                font-size: 1.2rem;
+                color: white;
+            }
         </style>
     </head>
     <body>
@@ -125,14 +130,17 @@
             ];
 
             searchButton.addEventListener('click', () => {
-                const searchTerm = searchInput.value.toLowerCase();
+                const searchTerm = searchInput.value.trim().toLowerCase();
+                if (searchTerm === "") {
+                    searchResults.innerHTML = '<p class="txt">.لطفا اسم سوالتو به فارسی توی کادر بالا 👆 بنویس</p>';
+                    return;
+                }
                 const filteredResults = contentData.filter(item =>
-                    item.toLowerCase().includes(searchTerm)
-                );
-
-                searchResults.innerHTML = filteredResults.length > 0
-                    ? filteredResults.map(result => `<p>${result}</p>`).join('')
-                    : '<p>No results found.</p>';
+                item.toLowerCase().includes(searchTerm)
+            );
+            searchResults.innerHTML = filteredResults.length > 0
+            ? filteredResults.map(result => `<p class="txt">بفرمایید جواب سوالتون ⬅ ${result}</p>`).join('')
+            : '<p class="txt">🙏😔ببخشید این سوال هنوز حل نشده</p>'; // پیام برای سوال ناموجود
             });
         </script>
     </body>
