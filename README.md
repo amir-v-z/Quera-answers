@@ -4,21 +4,13 @@
 
 <h3 align="right">
 
-<img src="https://media.giphy.com/media/KIKHqTuPdlgSiKYWn1/giphy.gif" width=30> برای راحتر پیدا کردن برنامه مورد نظر، فایل زیر را دانلود کنید و پس  از اجرا فایل در مرورگر در آن جستجو کنید.
+<img src="https://media.giphy.com/media/KIKHqTuPdlgSiKYWn1/giphy.gif" width=30> برای راحتر پیدا کردن برنامه مورد نظر، روی دکمه زیر کلیک کنید.
 
 </h3>
-
-- [برای سرچ کلیک کنید](https://amir-v-z.github.io/Quera_Search)
 
 <h3 align="center">
-<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Search.html"><img src="https://media.giphy.com/media/JJvj6wwTtmQcce6Pdw/giphy.gif" width=120></a>
+<a href="https://amir-v-z.github.io/Quera_Search"><img src="https://media.giphy.com/media/JJvj6wwTtmQcce6Pdw/giphy.gif" width=120></a>
 </h3>
-
-<div align="center">
-
-![gif](./QueraSearch.gif)
-
-</div>
 
 <h2 align="right"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9hc2M5czZyY3hsZmdsaXZuOHJvZnlrcTkwNDVjbTR4a2VmbWY2byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1pudxOoBLvKLMfktyN/giphy.gif" width=50>جدول بر اساس شناسه سوالات سایت کوئرا مرتب شده</h2>
 
