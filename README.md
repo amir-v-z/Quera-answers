@@ -201,6 +201,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/harkat_roy_zorof.java">جواب</td>
+<td><a href="https://quera.org/problemset/6375">سوال</td>
+<td>حرکت روی ظروف</td>
+<td>6375</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/name_bad.java">جواب</td>
 <td><a href="https://quera.org/problemset/7609">سوال</td>
 <td>نامه بد</td>
@@ -278,10 +285,24 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/soal_nafas_gir.java">جواب</td>
+<td><a href="https://quera.org/problemset/26651">سوال</td>
+<td>سوال نفس گیر</td>
+<td>26651</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/om_sin.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/28947">سوال</td>
 <td>ام سین</td>
 <td>28947</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sepideh.java">جواب</td>
+<td><a href="https://quera.org/problemset/31020">سوال</td>
+<td>سپیده</td>
+<td>31020</td>
 </tr>
 
 <tr>
@@ -296,6 +317,20 @@
 <td><a href="https://quera.org/problemset/contest/33023">سوال</td>
 <td>زینی</td>
 <td>33023</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/hendoneh_khory.java">جواب</td>
+<td><a href="https://quera.org/problemset/35253">سوال</td>
+<td>هندونه خوری</td>
+<td>35253</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/kelid_cheragh.java">جواب</td>
+<td><a href="https://quera.org/problemset/49028">سوال</td>
+<td>کلید چراغ</td>
+<td>49028</td>
 </tr>
 
 <tr>
