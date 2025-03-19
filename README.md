@@ -82,6 +82,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/tavan_2.java">جواب</td>
+<td><a href="https://quera.org/problemset/616">سوال</td>
+<td>توان دو</td>
+<td>616</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_khod_maghlob.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/617">سوال</td>
 <td>عدد خود مقلوب</td>
