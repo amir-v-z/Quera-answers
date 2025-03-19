@@ -327,6 +327,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/dayereh_ajib.java">جواب</td>
+<td><a href="https://quera.org/problemset/34081">سوال</td>
+<td>دایره عجیب</td>
+<td>34081</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/hendoneh_khory.java">جواب</td>
 <td><a href="https://quera.org/problemset/35253">سوال</td>
 <td>هندونه خوری</td>
