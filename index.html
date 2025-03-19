@@ -154,7 +154,7 @@
                 '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/tavan_2.java">توان دو</a>',
             ];
 
-            searchButton.addEventListener('click', () => {
+            const searchHandler = () => {
                 const searchTerm = searchInput.value.trim();
                 const persianRegex = /^[\u0600-\u06FF\s]+$/;
                 
@@ -167,11 +167,18 @@
                     return;
                 }
                 
-                const filteredResults = contentData.filter(item =>
-                item.includes(searchTerm));
+                const filteredResults = contentData.filter(item => item.includes(searchTerm));
                 searchResults.innerHTML = filteredResults.length > 0
                 ? filteredResults.map(result => `<p class="txt">بفرمایید جواب سوالتون ⬅ ${result}</p>`).join('')
                 : '<p class="txt">🙏😔ببخشید این سوال هنوز حل نشده</p>';
+            };
+            
+            searchButton.addEventListener('click', searchHandler);
+            
+            searchInput.addEventListener('keydown', (event) => {
+                if (event.key === 'Enter') {
+                    searchHandler();
+                }
             });
 
         </script>
