@@ -40,6 +40,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/morabae_to_khali.java">جواب</td>
+<td><a href="https://quera.org/problemset/283">سوال</td>
+<td>مربع تو خالی</td>
+<td>283</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/adad_aval.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/293">سوال</td>
 <td>اعداد اول</td>
