@@ -215,6 +215,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ersal_sangin.java">جواب</td>
+<td><a href="https://quera.org/problemset/3558">سوال</td>
+<td>ارسال سنگین</td>
+<td>3558</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/harkat_roy_zorof.java">جواب</td>
 <td><a href="https://quera.org/problemset/6375">سوال</td>
 <td>حرکت روی ظروف</td>
@@ -271,10 +278,24 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/bab_va_kelid_TV.java">جواب</td>
+<td><a href="https://quera.org/problemset/14580">سوال</td>
+<td>باب و کلید تلویزیون</td>
+<td>14580</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/sharzh_mobile.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/17244">سوال</td>
 <td>شارژ موبایل</td>
 <td>17244</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/taxlang.java">جواب</td>
+<td><a href="https://quera.org/problemset/17245">سوال</td>
+<td>تکسلنگ</td>
+<td>17245</td>
 </tr>
 
 <tr>
@@ -562,6 +583,13 @@
 <td><a href="https://quera.org/problemset/178600">سوال</td>
 <td>داروی کرونا</td>
 <td>178600</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ro_be_ro_dar_metro.java">جواب</td>
+<td><a href="https://quera.org/problemset/218361">سوال</td>
+<td>رو به رو در مترو</td>
+<td>218361</td>
 </tr>
 
 <tr>
