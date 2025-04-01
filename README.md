@@ -586,6 +586,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/shesh_sang.java">جواب</td>
+<td><a href="https://quera.org/problemset/211019">سوال</td>
+<td>شش سنگ</td>
+<td>211019</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/ro_be_ro_dar_metro.java">جواب</td>
 <td><a href="https://quera.org/problemset/218361">سوال</td>
 <td>رو به رو در مترو</td>
