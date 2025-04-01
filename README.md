@@ -664,6 +664,15 @@
 <td>145639</td>
 </tr>
 
+<tr>
+<td>WRONG ANSWER : 3</td>
+<td>90</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/safar_be_haji_bakandeh.java">جواب</td>
+<td><a href="https://quera.org/problemset/275137">سوال</td>
+<td>سفر به حاجی بکنده</td>
+<td>275137</td>
+</tr>
+
 </table>
 
 <h1 align="right">
