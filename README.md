@@ -593,6 +593,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/IT_services">جواب</td>
+<td><a href="https://quera.org/problemset/182261">سوال</td>
+<td>IT Services</td>
+<td>182261</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/shesh_sang.java">جواب</td>
 <td><a href="https://quera.org/problemset/211019">سوال</td>
 <td>شش سنگ</td>

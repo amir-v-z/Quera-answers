@@ -162,18 +162,14 @@
                 '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/shesh_sang.java">شش سنگ</a>',
                 '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/renge_gheymat_mofid">رنج قیمت مفید</a>',
                 '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/setaregan_ayandeh_golrang">ستارگان آینده گلرنگ</a>',
+                '<a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/IT_services">IT Services</a>',
             ];
 
             const searchHandler = () => {
                 const searchTerm = searchInput.value.trim();
-                const persianRegex = /^[\u0600-\u06FF\s]+$/;
                 
                 if (searchTerm === "") {
-                    searchResults.innerHTML = '<p class="txt">.لطفا اسم سوالتو به فارسی توی کادر بالا 👆 بنویس</p>';
-                    return;
-                }
-                if (!persianRegex.test(searchTerm)) {
-                    searchResults.innerHTML = '<p class="txt">⚠ فقط می‌تونی سوالتو با حروف فارسی وارد کنی</p>';
+                    searchResults.innerHTML = '<p class="txt">.لطفا اسم سوالتو مطابق اسمش تو کوئرا توی کادر بالا 👆 بنویس</p>';
                     return;
                 }
                 
