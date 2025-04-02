@@ -172,10 +172,14 @@
                     searchResults.innerHTML = '<p class="txt">.لطفا اسم سوالتو توی کادر بالا 👆 بنویس</p>';
                     return;
                 }
+
+                const filteredResults = contentData.filter(item => {
+                    const plainText = item.replace(/<[^>]*>/g, '').toLowerCase();
+                    return plainText.includes(searchTerm.toLowerCase());
+                });
                 
-                const filteredResults = contentData.filter(item => item.includes(searchTerm));
                 searchResults.innerHTML = filteredResults.length > 0
-                ? filteredResults.map(result => `<p class="txt">بفرمایید جواب سوالتون ⬅ ${result}</p>`).join('')
+                ? filteredResults.map(result => `<p class="txt">بفرمایید جواب سوالتون : ${result}</p>`).join('')
                 : '<p class="txt">🙏😔ببخشید این سوال هنوز حل نشده</p>';
             };
             
