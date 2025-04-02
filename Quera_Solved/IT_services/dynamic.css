@@ -1,0 +1,20 @@
+nav {
+    display: flex;
+    gap: 1rem; /* فاصله بین فرزندان */
+    flex-wrap: wrap; /* برای جلوگیری از خروج المان‌ها از خط */
+}
+
+nav :hover{
+    background-color: var(--color--nav-link-background--hover);
+}
+
+a {
+    background-color: var(--color--nav-link-background);
+    color: var(--color--body-foreground);
+    display: flex;
+    gap: 0.5rem; /* فاصله بین فرزندان */
+    border-radius: 0.2rem; /* گردی گوشه‌ها */
+    text-decoration: none; /* از لینک‌ها Underline حذف */
+    padding: 1rem; /* a فاصله داخلی تگ */
+    flex-grow: 1; /* اجازه به المان‌ها برای بزرگ شدن در صورت وجود فضای خالی */
+}
