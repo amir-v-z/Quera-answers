@@ -502,7 +502,7 @@
 </tr>
 
 <tr>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/price-range">جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/renge_gheymat_mofid">جواب</td>
 <td><a href="https://quera.org/problemset/134351">سوال</td>
 <td>رنج قیمت مفید</td>
 <td>134351</td>
@@ -611,6 +611,13 @@
 <td><a href="https://quera.org/problemset/221452">سوال</td>
 <td>جمع دو عدد</td>
 <td>221452</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/setaregan_ayandeh_golrang">جواب</td>
+<td><a href="https://quera.org/problemset/265387">سوال</td>
+<td>ستارگان آینده گلرنگ</td>
+<td>265387</td>
 </tr>
 
 <tr>
