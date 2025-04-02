@@ -502,6 +502,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/price-range">جواب</td>
+<td><a href="https://quera.org/problemset/134351">سوال</td>
+<td>رنج قیمت مفید</td>
+<td>134351</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/navahi_service_dehi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/136483">سوال</td>
 <td>نواحی سرویس دهی</td>
