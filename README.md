@@ -593,6 +593,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/i_love_mockstar">جواب</td>
+<td><a href="https://quera.org/problemset/182260">سوال</td>
+<td>I ❤ Mockstar</td>
+<td>182260</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/IT_services">جواب</td>
 <td><a href="https://quera.org/problemset/182261">سوال</td>
 <td>IT Services</td>
