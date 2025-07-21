@@ -54,7 +54,7 @@
 </tr>
 
 <tr>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/jenas_ghalb">جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/jenas_ghalb.java">جواب</td>
 <td><a href="https://quera.org/problemset/308">سوال</td>
 <td>جناس قلب</td>
 <td>308</td>
@@ -614,7 +614,7 @@
 </tr>
 
 <tr>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/haj_mashti">جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/haj_mashti.java">جواب</td>
 <td><a href="https://quera.org/problemset/209104">سوال</td>
 <td>حاج مشتی</td>
 <td>209104</td>
@@ -649,7 +649,7 @@
 </tr>
 
 <tr>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/mashgh_mahtab">جواب</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/mashgh_mahtab.java">جواب</td>
 <td><a href="https://quera.org/problemset/271649">سوال</td>
 <td>مشق مهتاب</td>
 <td>271649</td>
