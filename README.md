@@ -54,6 +54,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/jenas_ghalb">جواب</td>
+<td><a href="https://quera.org/problemset/308">سوال</td>
+<td>جناس قلب</td>
+<td>308</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/maximum.java">جواب</td>
 <td><a href="https://quera.org/problemset/university/588">سوال</td>
 <td>ماکزیمم</td>
@@ -607,6 +614,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/haj_mashti">جواب</td>
+<td><a href="https://quera.org/problemset/209104">سوال</td>
+<td>حاج مشتی</td>
+<td>209104</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/shesh_sang.java">جواب</td>
 <td><a href="https://quera.org/problemset/211019">سوال</td>
 <td>شش سنگ</td>
@@ -632,6 +646,13 @@
 <td><a href="https://quera.org/problemset/265387">سوال</td>
 <td>ستارگان آینده گلرنگ</td>
 <td>265387</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/mashgh_mahtab">جواب</td>
+<td><a href="https://quera.org/problemset/271649">سوال</td>
+<td>مشق مهتاب</td>
+<td>271649</td>
 </tr>
 
 <tr>
