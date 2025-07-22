@@ -404,6 +404,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/reshteh_mord_alagheh.java">جواب</td>
+<td><a href="https://quera.org/problemset/52546">سوال</td>
+<td>رشته مورد علاقه</td>
+<td>52546</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/chapgar.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/64434">سوال</td>
 <td>چاپگر</td>
@@ -700,15 +707,6 @@
 <td><a href="https://quera.org/problemset/2551">سوال</td>
 <td>جمع بزرگان</td>
 <td>2551</td>
-</tr>
-
-<tr>
-<td>WRONG ANSWER : 6</td>
-<td>60</td>
-<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/reshteh_mord_alagheh.java">جواب</td>
-<td><a href="https://quera.org/problemset/52546">سوال</td>
-<td>رشته مورد علاقه</td>
-<td>52546</td>
 </tr>
 
 <tr>
