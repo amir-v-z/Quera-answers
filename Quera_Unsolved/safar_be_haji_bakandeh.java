@@ -1,37 +1,38 @@
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class safar_be_haji_bakandeh {
     public static void main(String[] args) {
-        Scanner input = new Scanner (System.in);
-        ArrayList<Integer> num_villa = new ArrayList<>();
+        Scanner input = new Scanner(System.in);
 
         int n = input.nextInt(); // تعداد ویلا
         int k = input.nextInt(); // تعداد دوستان
 
-        for(int i=0; i<n; i++){
-            int a = input.nextInt(); // هزینه پایه ی ویلا
-            int b = input.nextInt(); // هزینه هر نفر اضافی
-            int x = input.nextInt(); // تعداد نفرات پایه ی هر ویلا
-    
-            int hazineh_ezafeh = 0;
+        int minCost = Integer.MAX_VALUE;
+        int chosenIndex = -1; // متغیر برای ذخیره شماره‌ی ویلا با کمترین هزینه
 
-            if(k > x){
-                hazineh_ezafeh = (k - x) * b; // محاسبه هزینه اضافی هر نفر
+        for (int i = 0; i < n; i++) {
+            int a = input.nextInt(); // هزینه پایه ویلا
+            int b = input.nextInt(); // هزینه هر نفر اضافی
+            int x = input.nextInt(); // تعداد نفرات پایه ویلا
+
+            int extraCost;
+            
+            if (k > x) {
+                int extraPeople = k - x;       // تعداد نفرات اضافی
+                extraCost = extraPeople * b;   // ضرب در هزینه‌ی هر نفر اضافی
+            } else {
+                extraCost = 0;                 // اگه تعداد دوستان کمتر یا برابر با ظرفیت پایه باشه، هزینه‌ی اضافی نداریم
             }
 
-            int sum = a + hazineh_ezafeh; // محاسبه هزینه کل
+            int totalCost = a + extraCost;
 
-            num_villa.add(sum);
+            if (totalCost < minCost) {
+                minCost = totalCost;
+                chosenIndex = i;
+            }
         }
 
-        int min = Collections.min(num_villa); // بدست آوردن کمترین هزینه ویلا
-
-        int index = num_villa.indexOf(min); // بدست آوردن شماره کمترین هزینه ویلا
-
-        System.out.println(index + 1);
-
+        System.out.println(chosenIndex + 1); // شماره ویلا با کمترین هزینه
         input.close();
     }
 }
