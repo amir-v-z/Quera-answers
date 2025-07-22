@@ -327,6 +327,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/rezhim_sakht_solution2.java">جواب</td>
+<td> </td>
+<td>رژیم سخت (راه حل دوم)</td>
+<td> </td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/soal_nafas_gir.java">جواب</td>
 <td><a href="https://quera.org/problemset/26651">سوال</td>
 <td>سوال نفس گیر</td>
