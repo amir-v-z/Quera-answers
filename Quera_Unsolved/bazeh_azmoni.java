@@ -2,24 +2,20 @@ import java.util.Scanner;
 
 public class bazeh_azmoni {
     public static void main(String[] args) {
-        Scanner input = new Scanner (System.in);
+        Scanner input = new Scanner(System.in);
 
-        int s = input.nextInt();
-        int f = input.nextInt();
-        int l = input.nextInt();
-        int x = input.nextInt();
+        int s = input.nextInt(); // زمان شروع آزمون
+        int f = input.nextInt(); // زمان پایان آزمون
+        int l = input.nextInt(); // مدت زمان پاسخگویی (استفاده‌ای نداره)
+        int x = input.nextInt(); // زمان ورود فرد
 
         if (x < s) {
             System.out.println("exam did not started!");
-        }
-
-        if (x==f || x > f) {
+        } else if (x >= f) {
             System.out.println("exam finished!");
-        }
-
-        if (x>=s && x<f) {
-            int z = f - x;
-            System.out.println(z);
+        } else {
+            int timeLeft = f - x; // زمان باقی‌مانده تا پایان آزمون
+            System.out.println(timeLeft);
         }
 
         input.close();
