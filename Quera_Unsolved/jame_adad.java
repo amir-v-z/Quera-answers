@@ -4,18 +4,12 @@ public class jame_adad {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        long sum = 0;
-
-        int i = 0;
-
         int n = input.nextInt();
 
-        while (true) {
+        long sum = 0;
+
+        for (int i = 0; i < n; i++) {
             sum += input.nextLong();
-            i++;
-            if(i == n){
-                break;
-            }
         }
 
         System.out.println(sum);
