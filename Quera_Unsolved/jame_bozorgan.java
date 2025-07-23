@@ -5,17 +5,13 @@ public class jame_bozorgan {
         Scanner input = new Scanner (System.in);
 
         int x = input.nextInt();
-        String z = input.next();
+        String op = input.next();
         int y = input.nextInt();
 
-        if (z.equals("+")) {
+        if (op.equals("+")) {
             System.out.println(x + y);
-        }
-
-        if (z.equals("*")) {
-            String zz = String.valueOf(y);
-            System.out.print(x + zz.substring(1));
-            // System.out.println(x * y);
+        } else if (op.equals("*")) {
+            System.out.println(x * y);
         }
 
         input.close();
