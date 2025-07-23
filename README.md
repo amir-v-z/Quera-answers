@@ -727,6 +727,15 @@
 <td>275137</td>
 </tr>
 
+<tr>
+<td>WRONG ANSWER : 1</td>
+<td>66</td>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Unsolved/shomareh_telephon.java">جواب</td>
+<td><a href="https://quera.org/problemset/291610">سوال</td>
+<td>سفر به حاجی بکنده</td>
+<td>291610</td>
+</tr>
+
 </table>
 
 <h1 align="right">
