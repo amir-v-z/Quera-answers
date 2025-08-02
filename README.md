@@ -676,6 +676,13 @@
 <td>281772</td>
 </tr>
 
+<tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/scroll">جواب</td>
+<td><a href="https://quera.org/problemset/291596">سوال</td>
+<td>اسکرول</td>
+<td>291596</td>
+</tr>
+
 </table>
 
 <h2 align="right">
