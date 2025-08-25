@@ -313,6 +313,13 @@
 </tr>
 
 <tr>
+<td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/jadval_bazi">جواب</td>
+<td><a href="https://quera.org/problemset/18850">سوال</td>
+<td>جدول بازی</td>
+<td>18850</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amir-v-z/Quera-answers/blob/main/Quera_Solved/morabaha_va_moshkelat_eghtesadi.java">جواب</td>
 <td><a href="https://quera.org/problemset/contest/20249">سوال</td>
 <td>مرباها و مشکلات اقتصادی</td>
